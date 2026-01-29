@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+Failure: Simulation finished
+Time: 7800000400 ns  Iteration: 0  Process: /tb_LED_Blinky/stim_proc  File: /home/islam/Vivado_Projects/LED_Blinky_Test/LED_Blinky_Test.srcs/sim_1/new/tb_LED_Blinky.vhd
+$finish called at time : 7800000400 ns : File "/home/islam/Vivado_Projects/LED_Blinky_Test/LED_Blinky_Test.srcs/sim_1/new/tb_LED_Blinky.vhd" Line 92
+INFO: xsimkernel Simulation Memory Usage: 280836 KB (Peak: 338368 KB), Simulation CPU Usage: 5510 ms
