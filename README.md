@@ -5,4 +5,4 @@ Design based on Zybo Zynq 7000. Logic controls LED0 blinking frequency by using 
 
 Open LED_Blinky_Test.xpr in Vivado to see the full project
 
-Find main VHDL logic in file: LED_Blinky_Test.srcs/sources_1/new/LED_Blinky.vhd
+Find source files (VHDL logic, constraints, simulation, etc.) under: LED_Blinky_Test.srcs/
