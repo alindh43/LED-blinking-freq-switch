@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 12:34:56 MST 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Wed Jan 28 13:18:25 2026
+# Process ID         : 293363
+# Current directory  : /home/islam/Vivado_Projects/LED_Blinky_Test/LED_Blinky_Test.runs/impl_1
+# Command line       : vivado -log LED_Blinky.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source LED_Blinky.tcl -notrace
+# Log file           : /home/islam/Vivado_Projects/LED_Blinky_Test/LED_Blinky_Test.runs/impl_1/LED_Blinky.vdi
+# Journal file       : /home/islam/Vivado_Projects/LED_Blinky_Test/LED_Blinky_Test.runs/impl_1/vivado.jou
+# Running On         : islam-HP-EliteBook-840-14-inch-G11-Notebook-PC
+# Platform           : Ubuntu
+# Operating System   : Ubuntu 24.04.3 LTS
+# Processor Detail   : Intel(R) Core(TM) Ultra 5 135U
+# CPU Frequency      : 3105.360 MHz
+# CPU Physical cores : 12
+# CPU Logical cores  : 14
+# Host memory        : 16165 MB
+# Swap memory        : 4294 MB
+# Total Virtual      : 20460 MB
+# Available Virtual  : 6915 MB
+#-----------------------------------------------------------
+source LED_Blinky.tcl -notrace
