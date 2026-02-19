@@ -1,4 +1,4 @@
-# LED-blinking-freq-switch
+# Full Vivado Project LED-blinking-freq-switch
 VHDL Project called LED_Blinky_Test created in Vivado.
 
 Design based on Zybo Zynq 7000. The logic controls LED0's blinking frequency with the four user switches on the board (SW0, SW1, SW2, SW3).
